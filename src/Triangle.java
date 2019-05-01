@@ -29,6 +29,9 @@ public class Triangle {
             String sideChoice;
             System.out.println("What side of the triangle are you trying to solve for? A, B , or C");
             sideChoice = input.next();
+            if(sideChoice.equals("A")){
+
+            }
 
 
 
@@ -42,6 +45,11 @@ public class Triangle {
             String sideChoice;
             System.out.println("What side of the triangle are you trying to solve for? A, B , or C");
             sideChoice = input.next();
+            if(sideChoice.equals("A")){
+                
+
+
+            }
 
         }
         public static void rightTriangle()
