@@ -31,7 +31,7 @@ public class Triangle {
             sideChoice = input.next();
 
             }
-        }
+      //  }
         public static void equalateralTriangle(){
             Scanner input = new Scanner(System.in);
             double sideA;
@@ -52,7 +52,7 @@ public class Triangle {
             else if(sideChoice.equals("2")){
 
 
-                calculateParam(sideA, sideA, sideA);
+              //  calculateParam(sideA, sideA, sideA);
             }
 
         }
