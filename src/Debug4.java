@@ -25,4 +25,3 @@ public class Debug4 {
         JOptionPane.showMessageDialog(null, output);
     }
 }
-© 2019 GitHub, Inc.
